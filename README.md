@@ -5,7 +5,7 @@
 Current project technology stack: 
 * Backend: Spring Boot, Spring WebFlux, REST, JWT
 * NoSQL Database: MongoDB
-* Frontend: Angular, Bootstrap
+* Frontend: Angular, TypeScript, HTML, Bootstrap
 
 Previous project technology stack: 
 * Backend: Spring Boot, REST, JWT
