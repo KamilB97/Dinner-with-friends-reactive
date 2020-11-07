@@ -1,5 +1,4 @@
-# Description: Purpose of this project is to remake my bachelor's project titled:
-"Implementation of a social networking site and mobile application for the android platform for associating people who want to eat together".
+# Description: Purpose of this project is to remake my bachelor's project titled: "Implementation of a social networking site and mobile application for the android platform for associating people who want to eat together".
 
 ## Technology stack:
 Current project technology stack: 
